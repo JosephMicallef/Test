@@ -13,6 +13,6 @@
 #include <math.h>
 
 int main(int argc, char *argv[]) {
-  printf("Hello\n");		/* Print Hello world! */
+  printf("Another test bc why not\n");		/* Print Hello world! */
   return 0;
 }
